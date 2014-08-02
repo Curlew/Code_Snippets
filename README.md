@@ -1,4 +1,4 @@
-Code_Snippets
+Code Snippets
 =============
 
-Some snippets I once wrote
+Some snippets I once wrote. Documentation should be unnecessary. Licence is GPL2
